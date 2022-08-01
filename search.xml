@@ -62,7 +62,7 @@
 <li><strong>Q5</strong> How to design and implement a Digital Twin? (<em>Architecture &amp; Component</em>)</li>
 <li><strong>Q6</strong> What are the main challenges of implementing a Digital Twin? (<em>Research Challenges</em>)</li>
 </ul>
-<h3 id="Q1-Definition"><a href="#Q1-Definition" class="headerlink" title="Q1: Definition"></a>Q1: Definition</h3><p>Here just specify some suitable definitions and keywords I think:</p>
+<h3 id="Q1-Definition"><a href="#Q1-Definition" class="headerlink" title="Q1: Definition"></a>Q1: Definition</h3><p>Here just specify some suitable definitions and keywords I think:<br>CPS （<em>Cyper-physical System</em>)</p>
 <ul>
 <li><strong>1.</strong> A set of realistic product and production process models linking enormous amounts of data to fast simulation and allowing the early and efficient assessment of the consequences, performance, quality of the design decisions on products and production line.</li>
 <li><strong>2.</strong> The virtual models include not only the geometric models, but also all rules and behaviours, such as material properties, mechanical analysis, health monitoring.</li>
