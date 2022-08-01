@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>FanHaolin&#39;s Blog for FYP Study</title>
+    <title>FanHaolin&#39;s Blog for PhD Study</title>
     <url>/posts/4b7b/</url>
     <content><![CDATA[<h1 id="Welcome-to-OliverFan’s-Blog"><a href="#Welcome-to-OliverFan’s-Blog" class="headerlink" title="Welcome to OliverFan’s Blog"></a>Welcome to OliverFan’s Blog</h1><h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><blockquote>
-<p>The aim of adding this blog is to demonstrate the learning process during the FYP,and also as a memo to record some important knowledge</p>
+<p>The aim of adding this blog is to demonstrate the learning process during PhD,and also as a memo to record some important knowledge, and literature review.</p>
 </blockquote>
 <h3 id="Content-Introduction"><a href="#Content-Introduction" class="headerlink" title="Content Introduction"></a>Content Introduction</h3><table>
 <thead>
@@ -25,6 +25,10 @@
 <td align="left">Deep Learning</td>
 <td align="right">Wound Segmentation</td>
 </tr>
+<tr>
+<td align="left">PhD Study</td>
+<td align="right">Memo</td>
+</tr>
 </tbody></table>
 <h3 id="Current-Content"><a href="#Current-Content" class="headerlink" title="Current Content"></a>Current Content</h3><ul>
 <li><input checked disabled type="checkbox"> Fundamental Python</li>
@@ -36,14 +40,26 @@
 </blockquote>
 <h2 id="Feedback-amp-Bug-Report"><a href="#Feedback-amp-Bug-Report" class="headerlink" title="Feedback &amp; Bug Report"></a>Feedback &amp; Bug Report</h2><p>You can leave a message via Github or Email</p>
 <ul>
-<li>Github: <a href="https://github.com/TOESL100">https://github.com/TOESL100</a></li>
-<li>Email: <a href="mailto:&#x66;&#104;&#108;&#105;&#101;&#x6c;&#x74;&#115;&#56;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#x2e;&#x63;&#111;&#109;">&#x66;&#104;&#108;&#105;&#101;&#x6c;&#x74;&#115;&#56;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#x2e;&#x63;&#111;&#109;</a></li>
+<li>Github: <a href="https://github.com/FHL1998">https://github.com/FHL1998</a></li>
+<li>Email: <a href="mailto:&#x45;&#x30;&#56;&#x31;&#x36;&#x32;&#x36;&#x35;&#64;&#117;&#46;&#x6e;&#117;&#x73;&#46;&#x65;&#x64;&#117;">&#x45;&#x30;&#56;&#x31;&#x36;&#x32;&#x36;&#x35;&#64;&#117;&#46;&#x6e;&#117;&#x73;&#46;&#x65;&#x64;&#117;</a></li>
 </ul>
 <hr>
 <p>Thank you for reading this manual. Looking for your advice!</p>
 ]]></content>
       <tags>
         <tag>Introduction</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Literature Review 08.01</title>
+    <url>/posts/15e8/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>PhD Study</category>
+      </categories>
+      <tags>
+        <tag>WebApp</tag>
+        <tag>PhD</tag>
       </tags>
   </entry>
   <entry>
