@@ -600,7 +600,10 @@ TestApp<span class="token punctuation">(</span><span class="token punctuation">)
 <li><strong>Q5</strong> How to design and implement a Digital Twin? (Architecture &amp; Component)</li>
 <li><strong>Q6</strong> What are the main challenges of implementing a Digital Twin? (Research Challenges)</li>
 </ul>
-<h3 id="Q1-Definition"><a href="#Q1-Definition" class="headerlink" title="Q1: Definition"></a>Q1: Definition</h3><p>Here just specify the most suitable definition and some keywords I think:</p>
+<h3 id="Q1-Definition"><a href="#Q1-Definition" class="headerlink" title="Q1: Definition"></a>Q1: Definition</h3><p>Here just specify some suitable definitions and keywords I think:</p>
+<ul>
+<li><strong>1.</strong> a set of realistic product and production process models linking enormous amounts of data to fast simulation and allowing the early and efficient assessment of the<br>consequences, performance, quality of the design decisions on products and production line.</li>
+</ul>
 ]]></content>
       <categories>
         <category>PhD Study</category>
