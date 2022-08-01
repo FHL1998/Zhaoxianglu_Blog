@@ -53,7 +53,16 @@
   <entry>
     <title>Literature Review 08.01</title>
     <url>/posts/15e8/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h2 id="1-Digital-twin-paradigm-A-systematic-literature-review"><a href="#1-Digital-twin-paradigm-A-systematic-literature-review" class="headerlink" title="1. Digital twin paradigm: A systematic literature review"></a>1. Digital twin paradigm: A systematic literature review</h2><p>The fusion of the physical and virtual spaces is motivated to ensure a better flexibility and scalability of manufacturing systems through information technologies.</p>
+<h3 id="Frequent-asked-questions"><a href="#Frequent-asked-questions" class="headerlink" title="Frequent-asked questions:"></a>Frequent-asked questions:</h3><ul>
+<li><strong>Q1</strong> What is a Digital Twin?</li>
+<li><strong>Q2</strong> Where is appropriate to use a Digital Twin?</li>
+<li><strong>Q3</strong> When has a Digital Twin to be developed?</li>
+<li><strong>Q4</strong> Why should a Digital Twin be used?</li>
+<li><strong>Q5</strong> How to design and implement a Digital Twin?</li>
+<li><strong>Q6</strong> What are the main challenges of implementing a Digital Twin?</li>
+</ul>
+]]></content>
       <categories>
         <category>PhD Study</category>
       </categories>
