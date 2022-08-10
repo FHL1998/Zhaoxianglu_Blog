@@ -600,7 +600,7 @@ TestApp<span class="token punctuation">(</span><span class="token punctuation">)
 <li><strong>Q5</strong> How to design and implement a Digital Twin? (<em>Architecture &amp; Component</em>)</li>
 <li><strong>Q6</strong> What are the main challenges of implementing a Digital Twin? (<em>Research Challenges</em>)</li>
 </ul>
-<h3 id="Q1-Definition"><a href="#Q1-Definition" class="headerlink" title="Q1: Definition"></a>Q1: Definition</h3><p>A digital twin can be used to proactively identify potential issues with its real physical counterpart. It allows the prediction of the remaining useful life (RUL) of the physical twin by leveraging a combination of physics-based (physics from first principles) models and data-driven analytics. 数字孪生可用于主动识别其真实物理对应物的潜在问题。它允许通过利用基于物理（第一原理的物理）模型和数据驱动分析的组合来预测物理双胞胎的剩余使用寿命 (RUL)。</p>
+<h3 id="Q1-Definition"><a href="#Q1-Definition" class="headerlink" title="Q1: Definition"></a>Q1: Definition</h3><p>A digital twin can be used to proactively identify potential issues with its real physical counterpart. It allows the prediction of the remaining useful life (<em>RUL</em>) of the physical twin by leveraging a combination of physics-based (<em>physics from first principles</em>) models and data-driven analytics. 数字孪生可用于主动识别其真实物理对应物的潜在问题。它允许通过利用基于物理（<em>第一原理的物理</em>）模型和数据驱动分析的组合来预测物理双胞胎的剩余使用寿命 (<em>RUL</em>)。</p>
 <p>Here just specify some suitable definitions and keywords I think:<br>CPS （<em>Cyper-physical System</em>)</p>
 <ul>
 <li><strong>1.</strong> A set of realistic product and production process models linking enormous amounts of data to fast simulation and allowing the early and efficient assessment of the consequences, performance, quality of the design decisions on products and production line.</li>
