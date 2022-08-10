@@ -600,13 +600,15 @@ TestApp<span class="token punctuation">(</span><span class="token punctuation">)
 <li><strong>Q5</strong> How to design and implement a Digital Twin? (<em>Architecture &amp; Component</em>)</li>
 <li><strong>Q6</strong> What are the main challenges of implementing a Digital Twin? (<em>Research Challenges</em>)</li>
 </ul>
-<h3 id="Q1-Definition"><a href="#Q1-Definition" class="headerlink" title="Q1: Definition"></a>Q1: Definition</h3><p>Here just specify some suitable definitions and keywords I think:<br>CPS （<em>Cyper-physical System</em>)</p>
+<h3 id="Q1-Definition"><a href="#Q1-Definition" class="headerlink" title="Q1: Definition"></a>Q1: Definition</h3><p>A digital twin can be used to proactively identify potential issues with its real physical counterpart. It allows the prediction of the remaining useful life (RUL) of the physical twin by leveraging a combination of physics-based (physics from first principles) models and data-driven analytics. 数字孪生可用于主动识别其真实物理对应物的潜在问题。它允许通过利用基于物理（第一原理的物理）模型和数据驱动分析的组合来预测物理双胞胎的剩余使用寿命 (RUL)。</p>
+<p>Here just specify some suitable definitions and keywords I think:<br>CPS （<em>Cyper-physical System</em>)</p>
 <ul>
 <li><strong>1.</strong> A set of realistic product and production process models linking enormous amounts of data to fast simulation and allowing the early and efficient assessment of the consequences, performance, quality of the design decisions on products and production line.</li>
 <li><strong>2.</strong> The virtual models include not only the geometric models, but also all rules and behaviours, such as material properties, mechanical analysis, health monitoring.</li>
 <li><strong>3.</strong> The digital twin has been developed also for the waste electrical and electronic equipment recovery to support the manufacturing/remanufacturing operations. </li>
 </ul>
 <h3 id="Recycle"><a href="#Recycle" class="headerlink" title="Recycle"></a>Recycle</h3><p>waste electrical and electronic equipment (WEEE) recovery: recycling at the material level and remanufacturing at the component level 材料层面的回收和组件层面的再制造</p>
+<p>the collector needs a good understanding of the WEEE to evaluate the status and functionality before distributing them to the proper stakeholder. Similarly, the remanufacturer needs deep knowledge of the product components, before some of them are repaired or remanufactured. 收集者需要对 WEEE 有很好的了解，以便在将其分发给适当的利益相关者之前评估其状态和功能。同样，再制造商需要对产品组件有深入的了解，然后才能对其中的一些组件进行维修或再制造。<br>this paper aims to tackle the connectivity and integration issue along the WEEE recycling/remanufacturing chain</p>
 ]]></content>
       <categories>
         <category>PhD Study</category>
