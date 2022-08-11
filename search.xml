@@ -53,7 +53,7 @@
   <entry>
     <title>Literature Review 08.01</title>
     <url>/posts/15e8/</url>
-    <content><![CDATA[<h2 id="1-Digital-twin-paradigm-A-systematic-literature-review"><a href="#1-Digital-twin-paradigm-A-systematic-literature-review" class="headerlink" title="1. Digital twin paradigm: A systematic literature review"></a>1. Digital twin paradigm: A systematic literature review</h2><p>The fusion of the physical and virtual spaces is motivated to ensure a better flexibility and scalability of manufacturing systems through information technologies.<br>At the service stage, DT relies on real time state monitoring and virtual operations such as maintenance to predict the remaining life of components or products.</p>
+    <content><![CDATA[<h2 id="1-Digital-twin-paradigm-A-systematic-literature-review"><a href="#1-Digital-twin-paradigm-A-systematic-literature-review" class="headerlink" title="1. Digital twin paradigm: A systematic literature review"></a>1. Digital twin paradigm: A systematic literature review</h2><p>** zxl是小猪**<br>The fusion of the physical and virtual spaces is motivated to ensure a better flexibility and scalability of manufacturing systems through information technologies.<br>At the service stage, DT relies on real time state monitoring and virtual operations such as maintenance to predict the remaining life of components or products.</p>
 <h3 id="Frequent-asked-questions"><a href="#Frequent-asked-questions" class="headerlink" title="Frequent-asked questions:"></a>Frequent-asked questions:</h3><ul>
 <li><strong>Q1</strong> What is a Digital Twin? (<em>Digital Twin definition</em>)<br>A set of adaptive models that emulate the behaviour of a physical system in a virtual system getting real time data to update itself along its life cycle. The digital twin replicates the physical system to predict failures and opportunities for changing, to prescribe real time actions for optimizing and/or mitigating unexpected events observing and evaluating the operating profile system. 一组自适应模型，在虚拟系统中模拟物理系统的行为，获取实时数据以在其生命周期中自我更新。数字孪生复制物理系统以预测故障和更改机会，规定实时操作以优化和/或减轻意外事件，观察和评估操作配置文件系统</li>
 <li><strong>Q2</strong> Where is appropriate to use a Digital Twin? (<em>Application Contexts</em>)<ul>
@@ -100,7 +100,7 @@
 </ul>
 <h3 id="Recycle"><a href="#Recycle" class="headerlink" title="Recycle"></a>Recycle</h3><p>waste electrical and electronic equipment (WEEE) recovery: recycling at the material level and remanufacturing at the component level 材料层面的回收和组件层面的再制造</p>
 <p>the collector needs a good understanding of the WEEE to evaluate the status and functionality before distributing them to the proper stakeholder. Similarly, the remanufacturer needs deep knowledge of the product components, before some of them are repaired or remanufactured. 收集者需要对 WEEE 有很好的了解，以便在将其分发给适当的利益相关者之前评估其状态和功能。同样，再制造商需要对产品组件有深入的了解，然后才能对其中的一些组件进行维修或再制造。<br>this paper aims to tackle the connectivity and integration issue along the WEEE recycling/remanufacturing chain</p>
-<h3 id="Challenges"><a href="#Challenges" class="headerlink" title="Challenges*"></a>Challenges*</h3><p>Human interaction is the one key challenge in the development and implementation of DT in the manufacturing application. 人机交互是 DT 在制造应用中开发和实施的关键挑战之一</p>
+<h3 id="Challenges"><a href="#Challenges" class="headerlink" title="Challenges"></a>Challenges</h3><p>Human interaction is the one key challenge in the development and implementation of DT in the manufacturing application. 人机交互是 DT 在制造应用中开发和实施的关键挑战之一</p>
 ]]></content>
       <categories>
         <category>PhD Study</category>
