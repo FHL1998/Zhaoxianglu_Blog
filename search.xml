@@ -57,26 +57,11 @@
 <h3 id="Frequent-asked-questions"><a href="#Frequent-asked-questions" class="headerlink" title="Frequent-asked questions:"></a>Frequent-asked questions:</h3><ul>
 <li><strong>Q1</strong> What is a Digital Twin? (<em>Digital Twin definition</em>)<br>A set of adaptive models that emulate the behaviour of a physical system in a virtual system getting real time data to update itself along its life cycle. The digital twin replicates the physical system to predict failures and opportunities for changing, to prescribe real time actions for optimizing and/or mitigating unexpected events observing and evaluating the operating profile system. 一组自适应模型，在虚拟系统中模拟物理系统的行为，获取实时数据以在其生命周期中自我更新。数字孪生复制物理系统以预测故障和更改机会，规定实时操作以优化和/或减轻意外事件，观察和评估操作配置文件系统</li>
 <li><strong>Q2</strong> Where is appropriate to use a Digital Twin? (<em>Application Contexts</em>)<ul>
-<li><strong>1.</strong> Healthcare<ul>
-<li>Improving operational efficiency of healthcare operations</li>
-</ul>
-</li>
-<li><strong>2.</strong> Maritime and Shipping<ul>
-<li>Design customization</li>
-</ul>
-</li>
-<li><strong>3.</strong> Manufacturing<ul>
-<li>Product development and predictive manufacturing</li>
-</ul>
-</li>
-<li><strong>4.</strong> City Management<ul>
-<li>Modelling and simulation of smart cities</li>
-</ul>
-</li>
-<li><strong>5.</strong> Aerospace<ul>
-<li>Predictive analytics to foresee future aircraft problems</li>
-</ul>
-</li>
+<li><strong>1.</strong> Healthcare: Improving operational efficiency of healthcare operations</li>
+<li><strong>2.</strong> Maritime and Shipping: Design customization</li>
+<li><strong>3.</strong> Manufacturing: Product development and predictive manufacturing</li>
+<li><strong>4.</strong> City Management: Modelling and simulation of smart cities</li>
+<li><strong>5.</strong> Aerospace: Predictive analytics to foresee future aircraft problems</li>
 </ul>
 </li>
 <li><strong>Q3</strong> When has a Digital Twin to be developed? (<em>Life Cycle Phases</em>)<ul>
