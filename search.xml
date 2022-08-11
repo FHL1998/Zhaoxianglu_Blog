@@ -56,28 +56,50 @@
     <content><![CDATA[<h2 id="1-Digital-twin-paradigm-A-systematic-literature-review"><a href="#1-Digital-twin-paradigm-A-systematic-literature-review" class="headerlink" title="1. Digital twin paradigm: A systematic literature review"></a>1. Digital twin paradigm: A systematic literature review</h2><p>The fusion of the physical and virtual spaces is motivated to ensure a better flexibility and scalability of manufacturing systems through information technologies.<br>At the service stage, DT relies on real time state monitoring and virtual operations such as maintenance to predict the remaining life of components or products.</p>
 <h3 id="Frequent-asked-questions"><a href="#Frequent-asked-questions" class="headerlink" title="Frequent-asked questions:"></a>Frequent-asked questions:</h3><ul>
 <li><strong>Q1</strong> What is a Digital Twin? (<em>Digital Twin definition</em>)<br>A set of adaptive models that emulate the behaviour of a physical system in a virtual system getting real time data to update itself along its life cycle. The digital twin replicates the physical system to predict failures and opportunities for changing, to prescribe real time actions for optimizing and/or mitigating unexpected events observing and evaluating the operating profile system. 一组自适应模型，在虚拟系统中模拟物理系统的行为，获取实时数据以在其生命周期中自我更新。数字孪生复制物理系统以预测故障和更改机会，规定实时操作以优化和/或减轻意外事件，观察和评估操作配置文件系统</li>
-<li><strong>Q2</strong> Where is appropriate to use a Digital Twin? (<em>Application Contexts</em>)<br>  1 Healthcare<pre><code>  • Improving operational efficiency of healthcare operations
-</code></pre>
-  2 Maritime and Shipping<pre><code>  • Design customization
-</code></pre>
-  3 Manufacturing<pre><code>  • Product development and predictive manufacturing
-</code></pre>
-  4 City Management<pre><code>  • Modelling and simulation of smart cities
-</code></pre>
-  5 Aerospace<pre><code>  • Predictive analytics to foresee future aircraft problems
-</code></pre>
+<li><strong>Q2</strong> Where is appropriate to use a Digital Twin? (<em>Application Contexts</em>)<ul>
+<li>Healthcare<ul>
+<li>Improving operational efficiency of healthcare operations</li>
+</ul>
 </li>
-<li><strong>Q3</strong> When has a Digital Twin to be developed? (<em>Life Cycle Phases</em>)<br>  1 In design phase<pre><code>  • The digital twin is used to help designers to configure and validate more quickly the product development accurately interpreting the market demands and the customer preferences.
-</code></pre>
-  2 In production phase<pre><code>  • The digital twin shows a great potential in real-time process control and optimization, as well as accurate prediction.
-</code></pre>
-  3 In service phase<pre><code>  • The digital twin can monitor the health of a product, perform diagnosis and prognosis.
-</code></pre>
+<li>Maritime and Shipping<ul>
+<li>Design customization</li>
+</ul>
+</li>
+<li>Manufacturing<ul>
+<li>Product development and predictive manufacturing</li>
+</ul>
+</li>
+<li>City Management<ul>
+<li>Modelling and simulation of smart cities</li>
+</ul>
+</li>
+<li>Aerospace<ul>
+<li>Predictive analytics to foresee future aircraft problems</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>Q3</strong> When has a Digital Twin to be developed? (<em>Life Cycle Phases</em>)<ul>
+<li><strong>1.</strong> In design phase<ul>
+<li>The digital twin is used to help designers to configure and validate more quickly the product development accurately interpreting the market demands and the customer preferences.</li>
+</ul>
+</li>
+<li><strong>2.</strong> In production phase<ul>
+<li>The digital twin shows a great potential in real-time process control and optimization, as well as accurate prediction.</li>
+</ul>
+</li>
+<li><strong>3.</strong> In service phase<ul>
+<li>The digital twin can monitor the health of a product, perform diagnosis and prognosis.</li>
+</ul>
+</li>
+</ul>
 </li>
 <li><strong>Q4</strong> Why should a Digital Twin be used?</li>
-<li><strong>Q5</strong> How to design and implement a Digital Twin? (<em>Architecture &amp; Component</em>)<blockquote>
-<p>The Physical layer involves various subsystems and sensory devices that collect data and working parameters.<br>The Network layer connects the physical to the virtual, sharing of data and information.<br>The Computing layer consists of virtual models emulating the corresponding physical entities.</p>
-</blockquote>
+<li><strong>Q5</strong> How to design and implement a Digital Twin? (<em>Architecture &amp; Component</em>)<ul>
+<li>The Physical layer involves various subsystems and sensory devices that collect data and working parameters.</li>
+<li>The Network layer connects the physical to the virtual, sharing of data and information.</li>
+<li>The Computing layer consists of virtual models emulating the corresponding physical entities.</li>
+</ul>
 </li>
 <li><strong>Q6</strong> What are the main challenges of implementing a Digital Twin? (<em>Research Challenges</em>)</li>
 </ul>
